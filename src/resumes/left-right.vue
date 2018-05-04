@@ -52,6 +52,7 @@
       <h3>{{ lang.education }}</h3>
       <div class="education-block" v-for="education in person.education" :key="education.degree">
         <span class="degree">{{education.degree}}</span>
+        <span class="degree-description black">{{education.timeperiod}}</span>
         <span class="degree-description">{{education.description}}</span>
       </div>
     </div>
