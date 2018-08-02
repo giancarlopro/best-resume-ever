@@ -17,9 +17,9 @@ experience:
   description: Programando slides interativos para aulas de medicina
 
 education:
-- degree: Técnico em Informatica
-  timeperiod: Abril 2014 - Março 2017
-  description: Curso técnico em informatica integrado ao ensino médio, Intituto Federal Fluminense, Campos dos Goytacazes, RJ.
+# - degree: Técnico em Informatica
+#   timeperiod: Abril 2014 - Março 2017
+#   description: Curso técnico em informatica integrado ao ensino médio, Intituto Federal Fluminense, Campos dos Goytacazes, RJ.
 
 - degree: Sistemas de Informação
   timeperiod: Abril 2017 - 2021
@@ -31,12 +31,10 @@ skills:
   level: 70
 - name: C
   level: 70
-- name: PHP
-  level: 60
 - name: Ruby
-  level: 30
+  level: 45
 - name: Front-end
-  level: 60
+  level: 30
 knowledge: Experiencia com alguns projetos em Python, C e Ruby.
 
 contact:
